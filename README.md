@@ -12,7 +12,7 @@ You just have to add the program to mate-session-properties so that it runs in t
 
 # Get changewp
 
-You can download the completed program from the Release folder or you can compile it on your own. For this you will need the build-essential package (sudo apt-get install build-essential) then use the command: gcc -o changewp changewp0.02.cpp
+You can download the compiled program from the Release folder or you can compile it on your own. For this you will need the build-essential package (sudo apt-get install build-essential) then use the command: gcc -o changewp changewp0.02.cpp
 
 # ChangeWP
 
