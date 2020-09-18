@@ -10,10 +10,11 @@ Example: changewp -t 60 -d /home/user/walpaper
 
 You just have to add the program to mate-session-properties so that it runs in the background after starting the desktop.
 
-#ChangeWP
+# ChangeWP
+
 Es un programa escrito en C que permite rotar las imagenes de fondo en un tiempo dado tomando imagenes a lazar de una carpeta. El programa esta pensado para funcionar en el escritorio Mate. Lo he probado y funciona correctamente en Linux Mint Mate. Es probable que funcione tambien en otros escritorios basado en Gnome.
 
-#Modo de uso:
+# Modo de uso:
 
 -t Para selecionar el tiempo en minutos. 60 segundo = 1 minuto.
 -d Para selecionar una carpeta de la cual tomar imagenes
